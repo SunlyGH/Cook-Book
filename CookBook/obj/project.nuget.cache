@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "25kk/DUsj0k03Z+IqgEnPMqoRpejAcEEyA82iUyQPE4YFXHAcUb7gCRusWzeX4xUSxrvtaLqOoToXW+NYOD4KA==",
+  "success": true,
+  "projectFilePath": "C:\\WPF\\FinalExam\\CookBook\\CookBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sun\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
